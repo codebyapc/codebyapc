@@ -7,7 +7,7 @@ Welcome to my GitHub space, where I build solutions that combine **technology, e
 
 ## 💼 About Me
 My full professional experience, skills, and projects are available on my  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alejandro-pereira-apc)
 
 I love crafting custom digital tools—**from intranets and CRMs to process automation**—using PHP, WordPress, JavaScript, SQL, Docker, n8n, BPM, and more.
 
